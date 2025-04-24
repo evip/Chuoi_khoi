@@ -1,6 +1,5 @@
-<html><head><meta charset='utf-8'><title>Bộ câu hỏi</title>
-<style>body{font-family:Arial,Helvetica,sans-serif;margin:20px;} h3{margin-bottom:5px;} ul{margin-top:0;list-style-type:none;padding-left:0;} li{margin-bottom:4px;}</style></head><body>
-<h1>Bộ câu hỏi ôn tập(Hiện chỉ có lựa chọn A, B, còn thêm 2 lựa chọn nữa nhưng đã bị xóa bỏ)</h1>
+<h1>Bộ câu hỏi ôn tập</h1>
+<h2>(Hiện chỉ có lựa chọn A, B, còn thêm 2 lựa chọn nữa nhưng đã bị xóa bỏ)</h2>
 <h3>1. . Chọn phát biểu đúng về hàm băm:</h3>
 <ul>
 <li><strong>A.</strong> Hàm băm là thuật toán mã hóa 1 chiều, chỉ có thể mã hóa (băm dữ liệu) mà rất khó giải mã thành dữ liệu ban đầu</li>
